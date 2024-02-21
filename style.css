@@ -192,6 +192,7 @@ body {
   background-color: var(--clr-primary);
   font-weight: var(--fw-semibold);
   padding: 0.5rem 1.5rem;
+  justify-self: center;
 } */
 
 .features {
