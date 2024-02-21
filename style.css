@@ -175,9 +175,9 @@ body {
   cursor: pointer;
 }
 
-/* .toggle-icon {
+.toggle-icon {
   margin-top: 0.5em;
-} */
+}
 
 .features {
   background-color: var(--clr-section);
