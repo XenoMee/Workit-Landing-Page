@@ -167,7 +167,16 @@ body {
   gap: 1rem;
 }
 
-/* .toggle-button {
+.toggle-button {
+  background-color: var(--clr-foreground);
+  color: var(--clr-background);
+  border: none;
+  padding: 0.2rem 0.5rem;
+  cursor: pointer;
+}
+
+/* .toggle-icon {
+  margin-top: 0.5em;
 } */
 
 .features {
