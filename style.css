@@ -118,7 +118,6 @@ body {
   font-size: var(--fs-100);
   line-height: 1.7;
   text-align: center;
-  padding: 2rem 1rem;
   min-height: 100svh;
 }
 
@@ -152,6 +151,10 @@ body {
   font-size: var(--fs-200);
 }
 
+/* Layout */
+/* .features {
+  background-color: var(--clr-section);
+} */
 /* Utility classes */
 .visually-hidden:not(:focus):not(:active):not(:focus-within) {
   clip-path: inset(50%);
