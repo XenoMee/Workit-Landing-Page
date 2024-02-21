@@ -103,6 +103,12 @@ h6 {
   overflow-wrap: break-word;
 }
 
+h1,
+h2,
+h3 {
+  font-family: "Fraunces";
+}
+
 /* General */
 body {
   background-color: var(--clr-foreground);
