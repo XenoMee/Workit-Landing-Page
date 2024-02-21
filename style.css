@@ -183,6 +183,10 @@ body {
   margin-top: 0.5em;
 }
 
+.intro {
+  height: 30vh;
+}
+
 /* .intro-btn {
   color: var(--clr-foreground);
   background-color: var(--clr-primary);
