@@ -123,3 +123,8 @@ body {
   white-space: nowrap;
   width: 1px;
 }
+
+.grid-flow {
+  display: grid;
+  gap: 1rem;
+}
