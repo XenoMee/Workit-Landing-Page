@@ -9,7 +9,7 @@
   --clr-background: var(--clr-light);
 }
 
-/* .dark-mode {
+.dark-mode {
   --clr-light: hsl(0, 0%, 100%);
   --clr-dark: hsl(273, 85%, 13%);
   --clr-primary: hsl(150, 100%, 63%);
@@ -18,7 +18,7 @@
 
   --clr-foreground: var(--clr-light);
   --clr-background: var(--clr-dark);
-} */
+}
 
 /* Utility classes */
 .visually-hidden:not(:focus):not(:active):not(:focus-within) {
