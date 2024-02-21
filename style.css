@@ -152,9 +152,9 @@ body {
 }
 
 /* Layout */
-/* .features {
+.features {
   background-color: var(--clr-section);
-} */
+}
 /* Utility classes */
 .visually-hidden:not(:focus):not(:active):not(:focus-within) {
   clip-path: inset(50%);
