@@ -26,7 +26,8 @@
   --clr-background: var(--clr-light);
 
   /* Font Family */
-
+  --font-family-heading: "Fraunces";
+  --font-family-body: "Manrope";
   /* Font weight */
 
   /* Font size */
