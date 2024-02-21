@@ -33,6 +33,15 @@
   --fw-semibold: 600;
 
   /* Font size */
+  --fs-100: 1rem;
+  --fs-200: 1.125rem;
+  --fs-300: 1.75rem;
+  --fs-400: 2rem;
+  --fs-500: 3rem;
+  --fs-600: 3.125rem;
+  --fs-700: 3.5rem;
+  --fs-800: 3.75rem;
+  --fs-900: 5rem;
 }
 
 .dark-mode {
