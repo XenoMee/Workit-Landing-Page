@@ -153,10 +153,10 @@ body {
 }
 
 /* Layout */
-/* .header,
+.header,
 .intro {
   background-color: var(--clr-foreground);
-} */
+}
 
 .features {
   background-color: var(--clr-section);
