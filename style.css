@@ -114,6 +114,13 @@ body {
   min-height: 100svh;
 }
 
+/* Typography */
+.main-title {
+  font-size: var(--fs-600);
+  color: var(--clr-background);
+  line-height: 1;
+}
+
 /* Utility classes */
 .visually-hidden:not(:focus):not(:active):not(:focus-within) {
   clip-path: inset(50%);
