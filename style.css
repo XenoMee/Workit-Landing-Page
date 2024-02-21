@@ -130,6 +130,7 @@ body {
 .main-title {
   font-size: var(--fs-600);
   color: var(--clr-background);
+  font-weight: var(--fw-semibold);
   line-height: 1;
 }
 
