@@ -117,8 +117,13 @@ body {
   font-weight: var(--fw-regular);
   font-size: var(--fs-100);
   line-height: 1.7;
+  text-align: center;
   min-height: 100svh;
 }
+
+/* .bottom-border {
+  border-bottom: 0.3rem solid var(--clr-primary);
+} */
 
 /* Typography */
 .main-title {
