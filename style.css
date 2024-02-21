@@ -141,6 +141,13 @@ body {
   line-height: 1.5;
 }
 
+.feature-title {
+  font-size: var(--fs-300);
+  color: var(--clr-foreground);
+  font-weight: var(--fw-semibold);
+  line-height: 1.3;
+}
+
 /* Utility classes */
 .visually-hidden:not(:focus):not(:active):not(:focus-within) {
   clip-path: inset(50%);
