@@ -184,7 +184,10 @@ body {
 }
 
 /* .intro-btn {
-  color: var(--clr-background);
+  color: var(--clr-foreground);
+  background-color: var(--clr-primary);
+  font-weight: var(--fw-semibold);
+  padding: 0.5rem 1.5rem;
 } */
 
 .features {
