@@ -103,6 +103,17 @@ h6 {
   overflow-wrap: break-word;
 }
 
+/* General */
+body {
+  background-color: var(--clr-foreground);
+  color: var(--clr-secondary);
+  font-family: "Manrope";
+  font-weight: var(--fw-regular);
+  font-size: var(--fs-100);
+  line-height: 1.7;
+  min-height: 100svh;
+}
+
 /* Utility classes */
 .visually-hidden:not(:focus):not(:active):not(:focus-within) {
   clip-path: inset(50%);
