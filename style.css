@@ -112,7 +112,7 @@ h3 {
 
 /* General */
 body {
-  background-color: var(--clr-foreground);
+  background-color: var(--clr-background);
   color: var(--clr-secondary);
   font-family: "Manrope";
   font-weight: var(--fw-regular);
@@ -153,10 +153,19 @@ body {
 }
 
 /* Layout */
+/* .header,
+.intro {
+  background-color: var(--clr-foreground);
+} */
+
 .features {
   background-color: var(--clr-section);
 }
 
+/* .demo,
+.footer {
+  background-color: var(--clr-background);
+} */
 /* Utility classes */
 .visually-hidden:not(:focus):not(:active):not(:focus-within) {
   clip-path: inset(50%);
