@@ -163,6 +163,13 @@ body {
   padding: 2rem 1rem;
 }
 
+.toggle-container {
+  gap: 1rem;
+}
+
+/* .toggle-button {
+} */
+
 .features {
   background-color: var(--clr-section);
 }
