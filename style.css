@@ -128,3 +128,8 @@ body {
   display: grid;
   gap: 1rem;
 }
+
+.flex-group {
+  display: flex;
+  align-items: center;
+}
