@@ -91,6 +91,10 @@ textarea,
 select {
   font: inherit;
 }
+
+a {
+  text-decoration: none;
+}
 /*
   5. Avoid text overflows
 */
@@ -178,6 +182,10 @@ body {
 .toggle-icon {
   margin-top: 0.5em;
 }
+
+/* .intro-btn {
+  color: var(--clr-background);
+} */
 
 .features {
   background-color: var(--clr-section);
