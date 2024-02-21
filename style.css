@@ -1,4 +1,13 @@
+@font-face {
+  font-family: "Fraunces";
+  font-display: swap;
+  src: url("./starter-code/assets/fonts/fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf")
+    format("truetype");
+  font-weight: 100 900;
+}
+
 :root {
+  /* Default color palette colors */
   --clr-light: hsl(0, 0%, 100%);
   --clr-dark: hsl(273, 85%, 13%);
   --clr-primary: hsl(150, 100%, 63%);
@@ -7,6 +16,12 @@
 
   --clr-foreground: var(--clr-dark);
   --clr-background: var(--clr-light);
+
+  /* Font Family */
+
+  /* Font weight */
+
+  /* Font size */
 }
 
 .dark-mode {
