@@ -29,6 +29,8 @@
   --font-family-heading: "Fraunces";
   --font-family-body: "Manrope";
   /* Font weight */
+  --fw-regular: 400;
+  --fw-semibold: 600;
 
   /* Font size */
 }
